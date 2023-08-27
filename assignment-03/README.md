@@ -1,6 +1,6 @@
 # Assignment 3
 
-## Michael Cassens
+## Cory McKague
 
 * I have learned to stop and enjoy the process
 * I have learned to learn a little each day
